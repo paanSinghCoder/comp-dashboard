@@ -22,11 +22,8 @@ const AlertsCard = () => {
               <span className="text-xs text-gray-400">{subText}</span>
             </div>
             <div className="flex gap-2">
-              <button className="text-sm px-3 py-1 rounded-lg hover:shadow bg-cyan-100 text-cyan-700">
-                View details
-              </button>
-              <button className="px-3 py-1 rounded-lg text-sm text-gray-500">
-                Dismiss
+              <button className="text-xs px-3 py-1 rounded-lg hover:shadow bg-cyan-100 text-cyan-700">
+                Details
               </button>
             </div>
           </div>

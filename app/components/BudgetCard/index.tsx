@@ -3,7 +3,7 @@ import { PieChart } from "react-minimal-pie-chart";
 
 const BudgetCard = () => {
   return (
-    <Card title="2023 BUDGET">
+    <Card title="2023 BUDGET" showMenu={true}>
       <div className="flex justify-around items-center py-4 w-full mt-3">
         <div className="w-44">
           <PieChart

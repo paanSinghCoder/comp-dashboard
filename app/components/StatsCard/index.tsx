@@ -7,7 +7,7 @@ import {
 
 const StatsCard = () => {
   return (
-    <Card title="STATS">
+    <Card title="STATS" showMenu={true}>
       <div className="py-3 border-b border-dashed">
         <h2 className="text-sm">Compa ratio change</h2>
         <div className="flex justify-between items-center pt-1">
