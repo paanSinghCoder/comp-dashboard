@@ -36,7 +36,20 @@ const Navbar = ({
           ))}
         </div>
         <div className="flex items-center justify-center gap-3 ">
-          <BellIcon className="h-5 w-5 text-gray-700 cursor-pointer" />
+          <Link href="https://github.com/paanSinghCoder" target="_blank">
+            <img
+              src="/GitHub-compact.svg"
+              alt=""
+              className="w-5 h-5 cursor-pointer"
+            />
+          </Link>
+          <Link
+            href="#"
+            className="flex items-center justify-center p-2 text-gray-900 rounded-lg hover:bg-gray-100 group"
+          >
+            <BellIcon className="h-5 w-5 text-gray-700 cursor-pointer" />
+          </Link>
+
           <div className="flex items-center ms-3 cursor-pointer">
             <div>
               <button
