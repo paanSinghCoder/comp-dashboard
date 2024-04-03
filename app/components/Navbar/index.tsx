@@ -1,4 +1,4 @@
-import { BellIcon, ChartBarSquareIcon } from "@heroicons/react/24/outline";
+import { BellIcon } from "@heroicons/react/24/outline";
 import Link from "next/link";
 import { NavbarPropsType, NavbarItemType } from "./Navbar.types";
 
