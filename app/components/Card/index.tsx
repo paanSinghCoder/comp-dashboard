@@ -1,4 +1,3 @@
-import React from "react";
 import { CardPropsType } from "./Card.types";
 
 const Card = ({ title = "", children }: CardPropsType) => (
