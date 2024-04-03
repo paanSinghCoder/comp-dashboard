@@ -36,7 +36,10 @@ const Navbar = ({
           ))}
         </div>
         <div className="flex items-center justify-center gap-3 ">
-          <Link href="https://github.com/paanSinghCoder" target="_blank">
+          <Link
+            href="https://github.com/paanSinghCoder/comp-dashboard"
+            target="_blank"
+          >
             <img
               src="/GitHub-compact.svg"
               alt=""
