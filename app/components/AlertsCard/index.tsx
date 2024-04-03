@@ -31,6 +31,9 @@ const AlertsCard = () => {
             </div>
           </div>
         ))}
+        <button className="text-right w-full text-xs mt-3 text-cyan-600 pr-1">
+          View all
+        </button>
       </div>
     </Card>
   );
