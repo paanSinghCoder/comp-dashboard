@@ -27,8 +27,8 @@ const EmployeePayRangeCard = () => {
               <span className="text-purple-700">36 employees(27%)</span>
             </div>
           </div>
-          <div className="w-full h-10 rounded-lg bg-purple-800 flex items-center justify-center">
-            <div className="bg-gray-200 w-4/5 h-12 rounded-lg shadow border border-cyan-300 text-purple-700 flex items-center justify-center">
+          <div className="w-full h-8 rounded-lg bg-purple-800 flex items-center justify-center">
+            <div className="bg-gray-200 w-4/5 h-10 rounded-lg shadow border border-cyan-300 text-purple-700 flex items-center justify-center">
               Total in band: 84 Employees
             </div>
           </div>
@@ -58,8 +58,8 @@ const EmployeePayRangeCard = () => {
               <span className="text-cyan-700">23 employees(18%)</span>
             </div>
           </div>
-          <div className="w-full h-10 rounded-lg bg-cyan-800 flex items-center justify-start pl-24">
-            <div className="bg-gray-200 w-3/5 h-12 rounded-lg shadow border border-cyan-300 text-cyan-700 flex items-center justify-center">
+          <div className="w-full h-8 rounded-lg bg-cyan-800 flex items-center justify-start pl-24">
+            <div className="bg-gray-200 w-3/5 h-10 rounded-lg shadow border border-cyan-300 text-cyan-700 flex items-center justify-center">
               Total in band: 103 Employees
             </div>
           </div>
