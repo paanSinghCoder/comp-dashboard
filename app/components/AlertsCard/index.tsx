@@ -14,7 +14,7 @@ const AlertsCard = () => {
               <span className="text-sm flex items-center text-gray-700">
                 {text}
                 {isOverdue && (
-                  <span className="ml-3 text-xs border border-purple-700 text-purple-700 rounded-full px-3 py-0.5">
+                  <span className="ml-3 text-xs border-purple-700 text-purple-700 rounded-full px-2 py-0.5">
                     Review overdue
                   </span>
                 )}
